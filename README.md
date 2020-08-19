@@ -1,6 +1,6 @@
 # NER for AISC ML Ops 
 
-A deployable Named Entity Recognition tool (A team project for Aggregate Intellect's workshop in April, 2020). 
+A deployable Named Entity Recognition tool (A team (four members) project for Aggregate Intellect's workshop in April, 2020). 
 
 ```bash
 cd src/bert
