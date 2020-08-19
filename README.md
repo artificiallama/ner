@@ -1,6 +1,6 @@
 # NER for AISC ML Ops 
 
-A deployable Named Entity Recognition tool (A team (four members) project for Aggregate Intellect's workshop in April, 2020). 
+A deployable Named Entity Recognition tool (A team project for Aggregate Intellect's workshop in April, 2020). The team consisted of four members.
 
 ```bash
 cd src/bert
@@ -27,3 +27,5 @@ make run
 - [![Build Status](https://dev.azure.com/ditadi/ner/_apis/build/status/ditadi.ner?branchName=master)](https://dev.azure.com/ditadi/ner/_build/latest?definitionId=1&branchName=master)
 - [Interactive Demo](https://bertmodel-ner.azurewebsites.net/)
 - [NER on CNN Headlines](https://bertmodel-ner.azurewebsites.net/headlines)
+
+https://www.youtube.com/watch?v=AKVMHytQZnI\&t=506s
