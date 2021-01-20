@@ -1,6 +1,6 @@
 # Named Entity Recognition
 
-A deployable Named Entity Recognition tool (A team project for Aggregate Intellect's workshop in April, 2020). The team consisted of four members (including myself).
+<!-- A deployable Named Entity Recognition tool (A team project for Aggregate Intellect's workshop in April, 2020). The team consisted of four members (including myself). -->
 
 ```bash
 cd src/bert
